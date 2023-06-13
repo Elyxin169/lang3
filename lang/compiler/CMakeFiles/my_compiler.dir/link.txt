@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_compiler.dir/main.cc.o -o my_compiler 
