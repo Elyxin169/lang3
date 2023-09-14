@@ -1,0 +1,8 @@
+di
+m 0 10
+di
+m 1 69
+lbl 0
+p 0
+pn 1
+goto 0

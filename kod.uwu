@@ -1,0 +1,10 @@
+var x = 69;
+
+if (x > 5) {
+      var y = 420;
+      println(x);
+      println(y);
+      if (y > x) {
+            println("y is greater than x");
+      }
+}

@@ -1,0 +1,3 @@
+/home/elyxin169/Documents/codering/lang/build/CMakeFiles/compiler.dir
+/home/elyxin169/Documents/codering/lang/build/CMakeFiles/edit_cache.dir
+/home/elyxin169/Documents/codering/lang/build/CMakeFiles/rebuild_cache.dir

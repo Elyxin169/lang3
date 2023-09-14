@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/elyxin169/Documents/codering/lang/build",
+  "command": "/usr/bin/g++ -I/home/elyxin169/Documents/codering/lang/compiler -g -std=gnu++17 -o CMakeFiles/compiler.dir/main.cc.o -c /home/elyxin169/Documents/codering/lang/compiler/main.cc",
+  "file": "/home/elyxin169/Documents/codering/lang/compiler/main.cc",
+  "output": "CMakeFiles/compiler.dir/main.cc.o"
+}
+]

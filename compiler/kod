@@ -1,0 +1,11 @@
+var x = 10;
+var number = 69;
+: label1;
+print(x);
+println(number);
+goto label1;
+
+
+#println("hello, world!");
+#var y = "hi";
+#var z = (10 + 10) * 2;
